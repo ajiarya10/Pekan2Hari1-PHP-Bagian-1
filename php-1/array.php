@@ -19,6 +19,9 @@
         */
         $kids = ["Mike", "Dustin", "Will", "Lucas", "Max", "Eleven"]; // Lengkapi di sini
         $adults = ["Hopper", "Nancy",  "Joyce", "Jonathan", "Murray"]; 
+        print_r($kids);
+        echo "<br>";
+        print_r($adults);
         echo "<h3> Soal 2</h3>";
         /* 
             SOAL NO 2
@@ -97,6 +100,13 @@
             "Aliase" => "El",
             "Status" => "Alive"
           ];
+        print_r($arr1);
+        echo "<br>";
+        print_r($arr2);
+        echo "<br>";
+        print_r($arr3);
+        echo "<br>";
+        print_r($arr4);
     ?>
 </body>
 </html>
